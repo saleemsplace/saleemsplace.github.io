@@ -114,3 +114,12 @@ body {
   color: red;
   font-weight: bold;
 }
+
+
+.content{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  left: 140%;
+  scale: 140%;
+}
