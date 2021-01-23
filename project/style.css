@@ -126,7 +126,9 @@ button:hover{
   cursor: pointer;
 }
 button:active{
-  transform: scale(0.98);
+  transform:translate(-50%) scale(0.90);
+
+
 }
 .panel.active {
   flex: 5;
