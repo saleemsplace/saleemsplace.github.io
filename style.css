@@ -10,6 +10,7 @@
 body {
   font-family: "Open-Sands", sans-serif;
   color: #222;
+ 
 
  
 }
@@ -35,7 +36,7 @@ body {
   z-index: -2;
 }
 .hero2 {
-  background-image: url("https://source.unsplash.com/random");
+  background-image: url("https://images.unsplash.com/photo-1516222338250-863216ce01ea?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80");
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -141,4 +142,19 @@ body {
   left: 140%;
   scale: 140%;
   margin-top: 500px;
+}
+
+.about{
+  font-size: 2.5em;
+  line-height: 1.2;
+  letter-spacing: 1.2;
+  max-width: 40%;
+  color: black;
+  left: 10%;
+  align-items: left;
+  position: absolute;
+  top: 5%;
+  min-width: 500px;
+  min-height:900px
+
 }
