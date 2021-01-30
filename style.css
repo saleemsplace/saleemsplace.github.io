@@ -163,7 +163,7 @@ body {
 }
 
 
-@media(max-height: 1200px){
+@media(max-height: 1100px){
   .aboutMe{
     font-size: 1.41em;
   }
