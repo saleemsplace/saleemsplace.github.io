@@ -163,13 +163,13 @@ body {
 }
 
 
-@media(max-height: 1100px){
+@media(max-height: 1000px){
   .aboutMe{
     font-size: 1.41em;
   }
 }
 
-@media(max-height: 990px){
+@media(max-height: 890px){
   .aboutMe{
     font-size: .9em;
   }
