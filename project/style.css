@@ -1,6 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sands");
 
-
+body{
+  min-height:800px;
+}
 .navContainer {
   max-width: 1200px;
   margin: 0 auto;
@@ -83,6 +85,7 @@ body {
 .container {
   display: flex;
   width: 70vw;
+  padding: 100px;
 }
 
 .panel {
@@ -98,6 +101,7 @@ body {
   position: relative;
   transition: flex 0.7s ease-in;
   border: 1px solid black;
+max-height: 789px;
 }
 
 
