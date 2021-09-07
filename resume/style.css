@@ -96,16 +96,37 @@
   
 }
 
+.me{
+  display: flex;
+ flex-wrap: wrap;
+ 
+ padding:10;
+ margin-right: 10px;
+ align-items: center;
+ text-align: center;
+ justify-content: center;
+ background-image: url(me.png);
+ height: 200px;
+ width: 400px;
+ background: url(me.png) no-repeat;
+ background-size:contain;
+ position: relative;}
+
+
+
 .resume-intro{
+ display: flex;
   flex: 100%;
   align-items: center;
   text-align: center;
 }
 
 
-.resume-intro h3{
+.front{
   font-size: 3em;
   color:rgb(73, 138, 236);
+  padding: 0px;
+  margin: 0px;
 
 }
 .resume-intro p{
