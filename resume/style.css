@@ -106,8 +106,6 @@
  text-align: center;
  justify-content: center;
  background-image: url(me.png);
- height: 200px;
- width: 400px;
  background: url(me.png) no-repeat;
  background-size:contain;
  position: relative;}
